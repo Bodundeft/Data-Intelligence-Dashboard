@@ -1,6 +1,5 @@
 # Data-Intelligence-Dashboard
-
-# Advanced Dashboard
+---
 
 ## Overview
 
@@ -48,9 +47,9 @@ pip install -r requirements.txt
 
 Run the Application
 Start the Streamlit app using the following command:
-
+```bash
 streamlit run app.py
-
+```
 This will open the app in your default web browser.
 
 ## Upload and Visualize
