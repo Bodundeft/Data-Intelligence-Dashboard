@@ -50,11 +50,16 @@ Start the Streamlit app using the following command:
 streamlit run app.py
 ```
 This will open the app in your default web browser.
+![image](https://github.com/user-attachments/assets/35d5f9ca-0ca7-436d-b212-8fe8f8c74e31)
+
 
 ## Upload and Visualize
 Upload your CSV or Excel file.
+![image](https://github.com/user-attachments/assets/e02e3014-e719-4f7c-9108-4cb2951adda6)
+![image](https://github.com/user-attachments/assets/e498715c-311b-47cb-88f2-744dd0d9dc73)
 
 Select the columns for bar chart or histogram visualizations.
+![image](https://github.com/user-attachments/assets/315b4a48-8f54-43fa-a79a-9d5a2e472be4)
 
 Analyze and interpret your data with ease!
 
